@@ -43,12 +43,12 @@
 ```
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 ....
-....
+https://github.com/AlexandrPopov88/new/commit/d0c9ed338bf27f78e2ee60f9ca021823fe6d65c3
 ....
 ....
 ```
 
-`https://github.com/AlexandrPopov88/new/commit/d0c9ed338bf27f78e2ee60f9ca021823fe6d65c3`
+https://github.com/AlexandrPopov88/new/commit/d0c9ed338bf27f78e2ee60f9ca021823fe6d65c3
 
 
 ---
