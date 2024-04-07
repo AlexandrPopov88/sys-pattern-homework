@@ -100,9 +100,7 @@ https://github.com/AlexandrPopov88/new/commit/c66d004e5d54ef789d3224152150ceacfd
 ....
 ....
 ```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+https://github.com/AlexandrPopov88/new/network
 
 ### Задание 4
 
