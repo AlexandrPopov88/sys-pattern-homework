@@ -71,9 +71,8 @@ https://github.com/AlexandrPopov88/new/commit/d0c9ed338bf27f78e2ee60f9ca021823fe
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
 
+https://github.com/AlexandrPopov88/new/commit/c66d004e5d54ef789d3224152150ceacfdbbfbfc
 
 ---
 
